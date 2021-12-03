@@ -11,15 +11,15 @@
 }
 
 .container-fluid {
-background-color:indigo;
+background-color:red;
 }
 
 .note {
-    background-color: indigo;
+    background-color: red;
 }
 
 .col-sm h3{
-    color:indigo
+    color:red
 }
 
 .card {
